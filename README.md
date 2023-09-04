@@ -1,3 +1,5 @@
 # Wi-Fi-Based-Indoor-Positioning-System
 
+ABSTRACT:
+
 The growing commercial interest in indoor location-based services (ILBS) has spurred recent development of many indoor positioning techniques. Due to the absence of global positioning system (GPS) signal, many other signals have been proposed for indoor usage. As GPS signal cannot penetrate well in indoor environment, various other signals have been investigated for localization purpose. Among many signals, the use of Wi-Fi signal Wi-Fi (802.11) emerges as a promising one due to the pervasive deployment of wireless LANs (WLANs). In particular, Wi-Fi fingerprinting has been attracting much attention recently because it does not require line-of-sight measurement of access points (APs) and achieves high applicability in complex indoor environment. Using Wi-Fi signals and their RSSI (received signal strength intensity) the location of a mobile user in indoor environment is estimated and displayed in a map like platform. In addition to that Heat map of a Wi-Fi access point and walking trajectories of the mobile user is also displayed.
